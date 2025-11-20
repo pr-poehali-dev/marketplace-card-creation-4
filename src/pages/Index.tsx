@@ -30,28 +30,19 @@ const Index = () => {
               <text x="50%" y="90%" fill="white" fontSize="20" fontWeight="bold" fontFamily="Roboto, sans-serif" textAnchor="middle">
                 83мм
               </text>
-              <text x="50%" y="93%" fill="white" fontSize="13" opacity="0.9" fontFamily="Roboto, sans-serif" textAnchor="middle">
-                длина
-              </text>
               
               <line x1="85%" y1="30%" x2="85%" y2="25%" stroke="white" strokeWidth="2" />
               <line x1="85%" y1="70%" x2="85%" y2="75%" stroke="white" strokeWidth="2" />
               <line x1="85%" y1="25%" x2="85%" y2="75%" stroke="white" strokeWidth="2.5" markerStart="url(#arrowhead-up)" markerEnd="url(#arrowhead-down)" />
               <text x="89%" y="51%" fill="white" fontSize="20" fontWeight="bold" fontFamily="Roboto, sans-serif" textAnchor="start">
-                67мм
-              </text>
-              <text x="89%" y="54%" fill="white" fontSize="13" opacity="0.9" fontFamily="Roboto, sans-serif" textAnchor="start">
-                ширина
+                85мм
               </text>
               
               <line x1="15%" y1="40%" x2="15%" y2="35%" stroke="white" strokeWidth="2" />
               <line x1="15%" y1="65%" x2="15%" y2="70%" stroke="white" strokeWidth="2" />
               <line x1="15%" y1="35%" x2="15%" y2="70%" stroke="white" strokeWidth="2.5" markerStart="url(#arrowhead-up)" markerEnd="url(#arrowhead-down)" />
               <text x="11%" y="53%" fill="white" fontSize="20" fontWeight="bold" fontFamily="Roboto, sans-serif" textAnchor="end">
-                85мм
-              </text>
-              <text x="11%" y="56%" fill="white" fontSize="13" opacity="0.9" fontFamily="Roboto, sans-serif" textAnchor="end">
-                высота
+                67мм
               </text>
               
               <defs>
